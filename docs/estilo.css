@@ -87,7 +87,7 @@ body{
     display: grid;
     grid-template-columns: 600px 600px;
     grid-template-rows: 300px 300px;
-    margin: 50px 900px;
+    margin: 50px 400px;
 }
 
 img{
